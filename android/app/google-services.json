@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360979269758",
+    "project_id": "fypadventour",
+    "storage_bucket": "fypadventour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360979269758:android:689e73781b27a50a11f02f",
+        "android_client_info": {
+          "package_name": "com.example.adventour_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360979269758-8dvut8d095urpdk3noic7e96qdlbklh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDL73GrOGWyf-8u3r386lBejQlBaymiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360979269758-8dvut8d095urpdk3noic7e96qdlbklh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
